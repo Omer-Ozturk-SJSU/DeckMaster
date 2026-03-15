@@ -3,9 +3,9 @@
 # who did what
 
 #Version: 0.2
-1. Angelina Chien:
-2. Omer Ozturk:
-3. Mareli Valverde:
+1. Angelina Chien: ReadMe, clean up
+2. Omer Ozturk: Implementation of codebase
+3. Mareli Valverde: Zip, submission, and final checks
 
 #Technical-Spec
 1. Angelina Chien: Final review, project manager
