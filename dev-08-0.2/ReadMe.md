@@ -4,7 +4,7 @@
 
 #Version: 0.2
 1. Angelina Chien: ReadMe, clean up
-2. Omer Ozturk: Implementation of codebase
+2. Omer Ozturk: Created code base, implemented assignment reqs for dev-08-0.2
 3. Mareli Valverde: Zip, submission, and final checks
 
 #Technical-Spec
