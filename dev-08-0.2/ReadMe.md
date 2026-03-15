@@ -2,7 +2,7 @@
 
 # who did what
 
-##Version: 0.2
+#Version: 0.2
 1. Angelina Chien:
 2. Omer Ozturk:
 3. Mareli Valverde:
