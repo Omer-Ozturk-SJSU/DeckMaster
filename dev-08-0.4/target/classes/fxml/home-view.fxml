@@ -14,5 +14,7 @@
     </padding>
 
     <Label text="DeckMaster"/>
+
     <Button text="Define Deck" onAction="#handleDefineDeck"/>
+    <Button text="View Decks" onAction="#handleViewDecks"/>
 </VBox>
