@@ -2,6 +2,11 @@
 
 # who did what
 
+#Version: 0.4
+1. Angelina Chien: ReadMe, clean up
+2. Omer Ozturk: Storing Deck Page Data and Listing Deck Data
+3. Mareli Valverde: Zip, submission, and final checks
+
 #Version: 0.2
 1. Angelina Chien: ReadMe, clean up
 2. Omer Ozturk: Created code base, implemented assignment reqs for dev-08-0.2
