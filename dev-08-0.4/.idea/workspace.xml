@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df84fe50-8ccb-4668-9c14-1100234b1fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cs151/controller/ListDecksController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cs151/repository/DeckRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/list-decks-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/deckmaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/deckmaster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/java/cs151/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs151/application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/java/cs151/controller/DefineDeckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs151/controller/DefineDeckController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/java/cs151/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs151/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/java/cs151/model/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs151/model/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/resources/fxml/define-deck-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/define-deck-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/src/main/resources/fxml/home-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/home-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/cs151/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs151/application/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/cs151/controller/DefineDeckController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs151/controller/DefineDeckController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/cs151/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs151/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/cs151/model/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs151/model/Deck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/fxml/define-deck-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/define-deck-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/fxml/home-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/home-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.2/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +15,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Omer-Ozturk-SJSU"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Omer-Ozturk-SJSU&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Omer-Ozturk-SJSU/DeckMaster.git",
-    "accountId": "23050818-2036-486a-bbb0-bbe12cc18404"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Omer-Ozturk-SJSU/DeckMaster.git&quot;,
+    &quot;accountId&quot;: &quot;23050818-2036-486a-bbb0-bbe12cc18404&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3BHHpcPoTBuZOt6NYt0cvesfW0Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -68,6 +45,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
@@ -95,7 +73,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -106,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774139259914</updated>
-      <workItem from="1774139260953" duration="2020000" />
+      <workItem from="1774139260953" duration="2420000" />
+      <workItem from="1775936986528" duration="10000" />
     </task>
     <servers />
   </component>

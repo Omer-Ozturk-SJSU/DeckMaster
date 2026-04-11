@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/23"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="cs151.controller.DefineFlashcardController"
+      alignment="CENTER"
+      spacing="10">
+
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <Label text="Define Flashcard"/>
+
+    <ComboBox fx:id="deckComboBox" promptText="Select Deck" prefWidth="300"/>
+
+    <TextArea fx:id="frontTextArea" promptText="Enter front text" prefWidth="300" prefHeight="100"/>
+
+    <TextArea fx:id="backTextArea" promptText="Enter back text" prefWidth="300" prefHeight="100"/>
+
+    <ComboBox fx:id="statusComboBox" promptText="Select Status" prefWidth="300"/>
+
+    <Button text="Save Flashcard" onAction="#handleSave"/>
+    <Button text="Back" onAction="#handleBack"/>
+
+</VBox>
