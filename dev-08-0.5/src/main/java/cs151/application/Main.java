@@ -21,7 +21,7 @@ public class Main extends Application {
         System.out.println(Main.class.getResource("/fxml/home-view.fxml"));
 
         FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource(fxmlPath));
-        Scene scene = new Scene(fxmlLoader.load(), 800, 500);
+        Scene scene = new Scene(fxmlLoader.load(), 920, 620);
         primaryStage.setTitle(title);
         primaryStage.setScene(scene);
         primaryStage.show();

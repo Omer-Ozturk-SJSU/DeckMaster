@@ -4,32 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f10b574-54aa-49fd-b04a-7be4d03b10d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../dev-08-0.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev-08-0.4/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f10b574-54aa-49fd-b04a-7be4d03b10d0" name="Changes" comment="v0.5 commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cs151/controller/SearchFlashcardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/search-flashcards-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decks.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards.json" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cs151/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs151/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cs151/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs151/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/home-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/home-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs151/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs151/application/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs151/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs151/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/home-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/home-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Omer-Ozturk-SJSU"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Omer-Ozturk-SJSU&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Omer-Ozturk-SJSU/DeckMaster.git",
-    "accountId": "23050818-2036-486a-bbb0-bbe12cc18404"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Omer-Ozturk-SJSU/DeckMaster.git&quot;,
+    &quot;accountId&quot;: &quot;23050818-2036-486a-bbb0-bbe12cc18404&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cs151/application/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -45,11 +70,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/CS151/Deckmaster/dev-08-0.5"
+    "last_opened_file_path": "C:/CS151/Deckmaster/dev-08-0.4"
   }
 }]]></component>
   <component name="RunManager">
@@ -98,6 +124,30 @@
       <option name="presentableId" value="Default" />
       <updated>1775937082801</updated>
     </task>
+    <task id="LOCAL-00001" summary="v0.5 commit">
+      <option name="closed" value="true" />
+      <created>1775937718978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775937718978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v0.5 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.5 commit" />
   </component>
 </project>

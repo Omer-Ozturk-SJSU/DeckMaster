@@ -22,4 +22,8 @@ public class HomeController {
     public void handleViewFlashcards(ActionEvent event) throws IOException {
         Main.loadScene("/fxml/list-flashcards-view.fxml", "Stored Flashcards");
     }
+
+    public void handleSearchFlashcards(ActionEvent event) throws IOException {
+        Main.loadScene("/fxml/search-flashcards-view.fxml", "Search Flashcards");
+    }
 }

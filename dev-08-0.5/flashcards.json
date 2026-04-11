@@ -1,40 +1,26 @@
 [
   {
-    "deckName": "Deck 3",
-    "frontText": "trio",
-    "backText": "3",
-    "createdAt": 1774843385674,
-    "status": "new",
-    "lastReviewAt": 1774843401159
-  },
-  {
-    "deckName": "Deck 1",
-    "frontText": "sky",
-    "backText": "blue",
+    "deckName": "CS151",
+    "frontText": "What is MVC?",
+    "backText": "Model View Controller",
     "createdAt": 1774843347171,
-    "status": "mastered",
-    "lastReviewAt": 1774843396046
-  },
-  {
-    "deckName": "Deck 1",
-    "frontText": "apple",
-    "backText": "fruit",
-    "createdAt": 1774843004081,
     "status": "learning",
-    "lastReviewAt": 1774843398468
+    "lastReviewAt": 1775944020337
   },
   {
-    "deckName": "Deck 2",
-    "frontText": "apple",
-    "backText": "fruit",
+    "deckName": "Turkish",
+    "frontText": "Merhaba",
+    "backText": "Hello",
+    "createdAt": 1774843004081,
+    "status": "mastered",
+    "lastReviewAt": 1775944021777
+  },
+  {
+    "deckName": "Biology",
+    "frontText": "Mitochondria",
+    "backText": "Produces energy for the cell",
     "createdAt": 1774838648455,
-    "lastReviewAt": 1774843393921
-  },
-  {
-    "deckName": "Deck 1",
-    "frontText": "Front text 1",
-    "backText": "Back text 1",
-    "createdAt": 1774838252410,
-    "lastReviewAt": 1775937181984
+    "status": "new",
+    "lastReviewAt": 1775944023607
   }
 ]

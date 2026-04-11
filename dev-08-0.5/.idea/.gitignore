@@ -53,7 +53,3 @@ node_modules/
 # ========================
 .env
 .env.*
-
-
-decks.json
-flashcards.json
