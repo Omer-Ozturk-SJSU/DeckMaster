@@ -39,6 +39,16 @@ public class FlashcardRepository {
         saveAll(flashcards);
     }
 
+    public void deleteByDeckName(String deckName) {
+        List<Flashcard> flashcards = loadAll();
+
+        flashcards.removeIf(card ->
+                card.getDeckName().equalsIgnoreCase(deckName)
+        );
+
+        saveAll(flashcards);
+    }
+
     public boolean existsInDeck(String deckName, String frontText) {
         List<Flashcard> flashcards = loadAll();
 
@@ -49,5 +59,18 @@ public class FlashcardRepository {
             }
         }
         return false;
+    }
+
+    public void updateDeckName(String oldDeckName, String newDeckName) {
+        List<Flashcard> flashcards = loadAll();
+
+        for (Flashcard card : flashcards) {
+            if (card.getDeckName() != null &&
+                    card.getDeckName().trim().equalsIgnoreCase(oldDeckName.trim())) {
+                card.setDeckName(newDeckName);
+            }
+        }
+
+        saveAll(flashcards);
     }
 }

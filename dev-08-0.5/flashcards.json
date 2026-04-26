@@ -1,5 +1,21 @@
 [
   {
+    "deckName": "Turkish",
+    "frontText": "Thanks",
+    "backText": "Tesekkurler",
+    "createdAt": 1777168871471,
+    "status": "new",
+    "lastReviewAt": 1777169947904
+  },
+  {
+    "deckName": "Turkish",
+    "frontText": "Bye",
+    "backText": "Gorusuruz",
+    "createdAt": 1777168857286,
+    "status": "new",
+    "lastReviewAt": 0
+  },
+  {
     "deckName": "CS151",
     "frontText": "What is MVC?",
     "backText": "Model View Controller",
@@ -13,7 +29,7 @@
     "backText": "Hello",
     "createdAt": 1774843004081,
     "status": "mastered",
-    "lastReviewAt": 1775944021777
+    "lastReviewAt": 1777169937790
   },
   {
     "deckName": "Biology",

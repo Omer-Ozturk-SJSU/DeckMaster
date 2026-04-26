@@ -54,4 +54,45 @@ public class DeckRepository {
         saveAll(decks);
         return true;
     }
+
+    public void deleteByName(String deckName) {
+        List<Deck> decks = loadAll();
+
+        decks.removeIf(deck ->
+                deck.getName().equalsIgnoreCase(deckName)
+        );
+
+        saveAll(decks);
+    }
+
+    public boolean updateDeck(String originalName, Deck updatedDeck) {
+        List<Deck> decks = loadAll();
+
+        for (int i = 0; i < decks.size(); i++) {
+            Deck current = decks.get(i);
+
+            if (current.getName() != null &&
+                    current.getName().trim().equalsIgnoreCase(originalName.trim())) {
+                decks.set(i, updatedDeck);
+                saveAll(decks);
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public boolean existsByNameExcept(String inputName, String originalName) {
+        String trimmedInput = inputName.trim();
+        String trimmedOriginal = originalName.trim();
+
+        for (Deck deck : loadAll()) {
+            if (deck.getName() != null &&
+                    deck.getName().trim().equalsIgnoreCase(trimmedInput) &&
+                    !deck.getName().trim().equalsIgnoreCase(trimmedOriginal)) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

@@ -25,11 +25,6 @@ public class DefineDeckController {
         String name = deckNameField.getText() == null ? "" : deckNameField.getText().trim();
         String description = descriptionArea.getText() == null ? "" : descriptionArea.getText().trim();
 
-        if (rep.loadAll().size() >= 3) {
-            showAlert("Limit Reached", "Only 3 decks are allowed.");
-            return;
-        }
-
         if (name.isEmpty()) {
             showAlert("Validation Error", "Deck name is required.");
             return;

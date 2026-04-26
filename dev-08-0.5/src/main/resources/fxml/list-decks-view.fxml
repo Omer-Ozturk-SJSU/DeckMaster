@@ -27,5 +27,6 @@
 
     <HBox spacing="10.0">
         <Button text="Back" onAction="#handleBack"/>
+        <Button text="Delete" onAction="#handleDeleteDeck"/>
     </HBox>
 </VBox>
