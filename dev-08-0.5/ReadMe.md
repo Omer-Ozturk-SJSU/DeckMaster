@@ -1,7 +1,11 @@
 # Name of application: DeckMaster
 
 # who did what
-
+#Version: 0.6
+1. Angelina Chien: ReadMe, clean up, and zip
+2. Omer Ozturk: Deck and Flashcard data, search and delete Flashcard
+4. Mareli Valverde: Final checks and submission
+   
 #Version: 0.5
 1. Angelina Chien: ReadMe, clean up
 2. Omer Ozturk: Zip, clean up, and final checks
